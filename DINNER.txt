@@ -1,0 +1,9 @@
+------------------------CIT125 DINNER MENU---------------------------------------
+a:	Grilled salmon with rice and vegetables - $16.99
+b:	Pepperoni pizza deep dish - $13.99
+c:	Steak skillet with green and red peppers and grilled onions - $14.99
+d:	Pulled pork sandwich w/ side of diced potatoes - $15.99
+e:	Spaghetti and Meatballs w/ marinara sauce - $12.99
+---------------------------------------------------------------------------------
+Please select your choice (a, b, c, d, or e):
+---------------------------------------------------------------------------------

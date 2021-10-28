@@ -1,0 +1,9 @@
+-----------------------------CIT125 LUNCH MENU-----------------------------------
+a:  Bacon Lettuce Tomato Sandwich w/ French Fries - $9.99
+b:	Caesar Salad w/ grilled chicken, Parmesan cheese, and caesar dressing - $10.99
+c:	Grilled cheese (Swiss or American cheese?) w/ French Fries - $10.99
+d:	Bacon Cheeseburger w/ bbq sauce, tomatoes, and lettuce w/ side of onion rings - $12.99
+e:	Clam chowder soup (breadbowl or plate) w/ side of potato chips - $11.99
+---------------------------------------------------------------------------------
+Please select your choice (a, b, c, d, or e):
+---------------------------------------------------------------------------------

@@ -1,0 +1,9 @@
+------------------------CIT 125 BREAKFAST MENU ---------------------------------
+a:  1 slice of steak and 2 eggs (sunny side up only) w/ diced potatoes - $6.99
+b:  2 eggs (scrambled or sunny side up?), 2 bacon strips, hashbrowns - $7.99
+c:	1 avocado toast with sun dried tomatoes and arugula cheese - $9.99
+d:	3 hotcakes w/ a side of toast (white or wheat?) - $9.99
+e:	1 bowl of plain oatmeal with fresh fruit - $5.99
+---------------------------------------------------------------------------------
+Please select your choice (a, b, c, d, or e):
+---------------------------------------------------------------------------------

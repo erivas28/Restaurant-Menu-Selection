@@ -1,0 +1,13 @@
+---------------CIT125 DRINK MENU-------------------------
+a: WATER - $0.99
+b:  Coffee - $1.50
+c:  Hot Chocolate - $1.99
+d:  Orange Juice - $1.99
+e:  Soda 12oz - $2.50
+f:  Soda 16oz - $2.99
+g:  Beer 16oz - $5.99
+h:  Beer 20oz - $7.99
+i:  Cocktail - $11.99
+--------------------------------------------------------
+Please select your choice (a, b, c, d, e, f, g, h, or i):
+--------------------------------------------------------
